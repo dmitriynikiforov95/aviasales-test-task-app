@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aviasales-test-task-app/static/css/main.919e6cb0.chunk.css",
+    "main.css": "/aviasales-test-task-app/static/css/main.d12ab575.chunk.css",
     "main.js": "/aviasales-test-task-app/static/js/main.8e1b3be8.chunk.js",
     "main.js.map": "/aviasales-test-task-app/static/js/main.8e1b3be8.chunk.js.map",
     "runtime~main.js": "/aviasales-test-task-app/static/js/runtime~main.ba260aca.js",
@@ -8,9 +8,9 @@
     "static/js/2.6b72778a.chunk.js": "/aviasales-test-task-app/static/js/2.6b72778a.chunk.js",
     "static/js/2.6b72778a.chunk.js.map": "/aviasales-test-task-app/static/js/2.6b72778a.chunk.js.map",
     "index.html": "/aviasales-test-task-app/index.html",
-    "precache-manifest.0ece132c83e9e527cdc1eedfa1519b22.js": "/aviasales-test-task-app/precache-manifest.0ece132c83e9e527cdc1eedfa1519b22.js",
+    "precache-manifest.2224518d8eb5a857777f00f5ed60ede1.js": "/aviasales-test-task-app/precache-manifest.2224518d8eb5a857777f00f5ed60ede1.js",
     "service-worker.js": "/aviasales-test-task-app/service-worker.js",
-    "static/css/main.919e6cb0.chunk.css.map": "/aviasales-test-task-app/static/css/main.919e6cb0.chunk.css.map",
+    "static/css/main.d12ab575.chunk.css.map": "/aviasales-test-task-app/static/css/main.d12ab575.chunk.css.map",
     "static/media/ticket-list-filter.module.css": "/aviasales-test-task-app/static/media/Shape.68ca57dc.svg"
   }
 }
